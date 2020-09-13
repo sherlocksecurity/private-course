@@ -8,7 +8,7 @@ before:
     title: Welcome!
     body: new-issue.md
 steps:
-  - title: First step
+  - title: First stepk
     description: The first step in your course
     event: issues.assigned
     link: '{{ repoUrl }}'
